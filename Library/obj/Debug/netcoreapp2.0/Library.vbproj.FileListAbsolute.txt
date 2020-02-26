@@ -9,3 +9,14 @@ C:\Users\Quan\source\repos\Library\Library\obj\Debug\netcoreapp2.0\Library.Assem
 C:\Users\Quan\source\repos\Library\Library\obj\Debug\netcoreapp2.0\Library.AssemblyInfo.vb
 C:\Users\Quan\source\repos\Library\Library\obj\Debug\netcoreapp2.0\Library.dll
 C:\Users\Quan\source\repos\Library\Library\obj\Debug\netcoreapp2.0\Library.pdb
+C:\Users\Quan\source\repos\Library\9608-22-m-j-20\Library\bin\Debug\netcoreapp2.0\Library.deps.json
+C:\Users\Quan\source\repos\Library\9608-22-m-j-20\Library\bin\Debug\netcoreapp2.0\Library.runtimeconfig.json
+C:\Users\Quan\source\repos\Library\9608-22-m-j-20\Library\bin\Debug\netcoreapp2.0\Library.runtimeconfig.dev.json
+C:\Users\Quan\source\repos\Library\9608-22-m-j-20\Library\bin\Debug\netcoreapp2.0\Library.dll
+C:\Users\Quan\source\repos\Library\9608-22-m-j-20\Library\bin\Debug\netcoreapp2.0\Library.pdb
+C:\Users\Quan\source\repos\Library\9608-22-m-j-20\Library\obj\Debug\netcoreapp2.0\Library.vbprojResolveAssemblyReference.cache
+C:\Users\Quan\source\repos\Library\9608-22-m-j-20\Library\obj\Debug\netcoreapp2.0\Library.vbproj.CoreCompileInputs.cache
+C:\Users\Quan\source\repos\Library\9608-22-m-j-20\Library\obj\Debug\netcoreapp2.0\Library.AssemblyInfoInputs.cache
+C:\Users\Quan\source\repos\Library\9608-22-m-j-20\Library\obj\Debug\netcoreapp2.0\Library.AssemblyInfo.vb
+C:\Users\Quan\source\repos\Library\9608-22-m-j-20\Library\obj\Debug\netcoreapp2.0\Library.dll
+C:\Users\Quan\source\repos\Library\9608-22-m-j-20\Library\obj\Debug\netcoreapp2.0\Library.pdb

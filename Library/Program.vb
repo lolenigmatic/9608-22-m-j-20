@@ -75,20 +75,18 @@ Module Program
                     If currentLineArr(1) = searchTerm Then 'arr index 1 is the author, therefore must equal searchTerm
 
                         'super clunky and bad array logic, fixed soon
-                        If authorsFoundArr.Length = 1 Then
-
-                            Array.Resize(authorsFoundArr, arrIndex)
-                            authorsFoundArr(arrIndex - 1) = currentLineArr(0)
-                            arrIndex += 1
-
-                        End If
+                        Array.Resize(authorsFoundArr, arrIndex)
+                        authorsFoundArr(arrIndex - 1) = currentLineArr(0)
+                        arrIndex += 1
 
                     End If
                 Loop
 
+                'Outputting results
                 For i = 0 To authorsFoundArr.Length - 1
                     Console.WriteLine(authorsFoundArr(i))
                 Next
+
                 fileRead.Close()
 
             Case Else
